@@ -14,6 +14,25 @@ La herramienta combina **IA Generativa**, **visualización de datos** y una inte
 
 ---
 
+---
+
+## 🔑 Configuración
+
+Para poder utilizar el chatbot necesitas:
+
+1. **Cuenta de OpenAI con saldo activo**  
+   El modelo `gpt-4o-mini` no está disponible en la versión gratuita, por lo que es necesario tener una **cuenta de pago en OpenAI** y haber cargado saldo en dólares.  
+   Puedes crear tu cuenta y gestionar el billing aquí: [https://platform.openai.com](https://platform.openai.com).
+
+2. **Archivo `.env` con tu clave de API**  
+   En la raíz del proyecto crea un archivo llamado `.env` con el siguiente contenido:
+
+   ```env
+   OPENAI_API_KEY=tu_api_key_aqui
+
+---
+
+
 ## 📊 Datos
 
 ⚠️ **Importante**: este repositorio incluye únicamente el código (`main.py`) y las dependencias (`requirements.txt`).  
