@@ -14,8 +14,6 @@ La herramienta combina **IA Generativa**, **visualización de datos** y una inte
 
 ---
 
----
-
 ## 🔑 Configuración
 
 Para poder utilizar el chatbot necesitas:
