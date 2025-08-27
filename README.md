@@ -1,4 +1,4 @@
-# 🏆 Chatbot Champions League 24/25
+# 🏆 Chatbot Champions League 24/25 ⚽️
 
 Este proyecto forma parte de mi **Trabajo de Fin de Máster** y consiste en una aplicación interactiva orientada a la **Dirección Deportiva** de un club profesional.  
 La herramienta combina **IA Generativa**, **visualización de datos** y una interfaz sencilla para **analizar y comparar jugadores de la UEFA Champions League 2024/2025**.
